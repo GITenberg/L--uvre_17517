@@ -1,0 +1,71 @@
+_repo: L--uvre_17517
+_version: 0.1.0
+alternative_title: L'oeuvre
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: "L'œuvre is the fourteenth novel in the Rougon-Macquart series by Émile\
+  \ Zola. It was first serialized in the periodical Gil Blas beginning in December\
+  \ 1885 before being published in novel form by Charpentier in 1886.\nThe title,\
+  \ translated literally as \"The Work\" (as in work of art), is often rendered in\
+  \ English as The Masterpiece or His Masterpiece. It refers to the struggles of the\
+  \ protagonist Claude Lantier to paint a great work reflecting his talent and genius.\n\
+  L'œuvre is a fictional account of Zola's friendship with Paul Cézanne and a fairly\
+  \ accurate portrayal of the Parisian art world in the mid 19th century. Zola and\
+  \ Cézanne grew up together in Aix-en-Provence, the model for Zola's Plassans, where\
+  \ Claude Lantier is born and receives his education. Like Cézanne, Claude Lantier\
+  \ is a revolutionary artist whose work is misunderstood by an art-going public hidebound\
+  \ by traditional subjects, techniques and representations. Many of the characteristics\
+  \ ascribed to Claude Lantier are a compound taken from the lives of several impressionist\
+  \ painters including Claude Monet, Édouard Manet, as well as Paul Cézanne. Zola's\
+  \ self-portrait can be seen in the character of the novelist Pierre Sandoz.\nThe\
+  \ book is often blamed for ending the friendship between Cézanne and Zola. The story\
+  \ of a groundbreaking artist unable to live up to his potential must have seemed\
+  \ intensely personal to Cézanne; no correspondence exists between the two after\
+  \ a letter in which Cézanne thanks Zola for sending him the novel.\nThe novel covers\
+  \ about 15 years, ending in 1870. Besides depicting the bohemian art world of 19th-century\
+  \ Paris, L'œuvre explores the rise of Realism, Naturalism and Impressionism in painting.\
+  \ Zola also looks at contemporary sculpture, literature, architecture, music and\
+  \ journalism, as well as the commodification of art. In creating his portrayal of\
+  \ the Parisian art world Zola includes several characters who are composites of\
+  \ real-life art world related figures; artists, writers, art dealers, and friends\
+  \ that he knew.\nL'œuvre was translated into English by Ernest A. Vizetelly in 1886\
+  \ (reprinted by Barnes & Noble in 2006); other translations have appeared since.\
+  \ One of the most readily accessible is that by Thomas Walton (1957), revised in\
+  \ 1993 for Oxford World's Classics.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17517'
+  wikidata: Q1446938
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Intellectual life -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PQ'
+- !lcsh 'Impressionist artists -- France -- Paris -- Fiction'
+title: L'Œuvre
+url: http://www.gutenberg.org/ebooks/17517
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27%C5%92uvre_(%C3%89mile_Zola)
+- https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%DA%A9%D8%A7%D8%B1_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://de.wikipedia.org/wiki/Das_Werk_(Zola)
+- https://pl.wikipedia.org/wiki/Dzie%C5%82o_(powie%C5%9B%C4%87)
+- https://en.wikipedia.org/wiki/L%27%C5%92uvre
+- https://it.wikipedia.org/wiki/L%27Opera
+- https://fr.wikisource.org/wiki/L%E2%80%99%C5%92uvre_(Zola)
